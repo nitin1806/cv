@@ -1,0 +1,30 @@
+body{
+  background-color: #EAF6F6;
+}
+/********************Class selector*******************/
+.personal{
+  height: 120px;
+}
+/******example of pseudo classes which have colon in their front**********/
+img:hover{
+  background-color: #BDE6F1;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+/***********************id Selector********************
+#nit{
+  font-style: italic;
+}
+*/
